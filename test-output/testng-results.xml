@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-07-21T16:06:12 PKT" name="Default suite" finished-at="2023-07-21T16:08:15 PKT" duration-ms="122925">
+    <groups>
+      <group name="SC_Smoke">
+        <method signature="SCLinksTest.C2C_Verify_URLS()[pri:1, instance:com.SmartCommerce.NetworkTest.SCLinksTest@dfddc9a]" name="C2C_Verify_URLS" class="com.SmartCommerce.NetworkTest.SCLinksTest"/>
+      </group> <!-- SC_Smoke -->
+    </groups>
+    <test started-at="2023-07-21T16:06:12 PKT" name="Default test" finished-at="2023-07-21T16:08:15 PKT" duration-ms="122925">
+      <class name="com.SmartCommerce.NetworkTest.SCLinksTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.SmartCommerce.NetworkTest.SCLinksTest@dfddc9a]" started-at="2023-07-21T16:06:12 PKT" name="setup" finished-at="2023-07-21T16:06:14 PKT" duration-ms="1681" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="C2C_Verify_URLS()[pri:1, instance:com.SmartCommerce.NetworkTest.SCLinksTest@dfddc9a]" started-at="2023-07-21T16:06:14 PKT" name="C2C_Verify_URLS" description="Verify Click2Cart Links" finished-at="2023-07-21T16:08:15 PKT" duration-ms="121082" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- C2C_Verify_URLS -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.SmartCommerce.NetworkTest.SCLinksTest@dfddc9a]" started-at="2023-07-21T16:08:15 PKT" name="teardown" finished-at="2023-07-21T16:08:15 PKT" duration-ms="129" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.SmartCommerce.NetworkTest.SCLinksTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
